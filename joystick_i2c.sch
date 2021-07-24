@@ -97,12 +97,14 @@ F 3 "C220770" H 5800 1275 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Chimere:joystick U2
+L Chimere_comps:joystick U2
 U 1 1 607A039F
 P 4425 2525
+AR Path="/607A039F" Ref="U2"  Part="1" 
+AR Path="/6075642C/607A039F" Ref="U2"  Part="1" 
 F 0 "U2" H 4553 2351 50  0000 L CNN
 F 1 "joystick" H 4553 2260 50  0000 L CNN
-F 2 "Chimere:RKJXV1220" H 4430 2525 50  0001 C CNN
+F 2 "Chimere_comps:RKJXV1220" H 4430 2525 50  0001 C CNN
 F 3 "C219778" H 4430 2525 50  0001 C CNN
 	1    4425 2525
 	1    0    0    -1  

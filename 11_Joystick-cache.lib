@@ -26,12 +26,12 @@ X CH2- 8 -400 -100 100 R 50 50 1 1 I
 ENDDRAW
 ENDDEF
 #
-# Chimere_joystick
+# Chimere_comps_joystick
 #
-DEF Chimere_joystick U 0 40 Y Y 1 F N
+DEF Chimere_comps_joystick U 0 40 Y Y 1 F N
 F0 "U" 55 255 50 H V C CNN
-F1 "Chimere_joystick" 50 -140 50 V V C CNN
-F2 "Chimere:RKJXV1220" 5 0 50 H I C CNN
+F1 "Chimere_comps_joystick" 50 -140 50 V V C CNN
+F2 "Chimere_comps:RKJXV1220" 5 0 50 H I C CNN
 F3 "" 5 0 50 H I C CNN
 DRAW
 S -150 -750 100 -300 0 1 0 N
